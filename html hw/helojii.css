@@ -1,0 +1,12 @@
+.div1{ border: 1px solid black;
+background-image: repeating-conic-gradient(red 90deg,blue 120deg)}
+.div1 a:link{ color:brown}
+.div1 a:visited{ color:aqua}
+.div1 a:hover{ color: red}
+.div1 a:active{ color:green}
+
+.div2, .div3{border: 1px solid black; font-size: 620%; text-align: center; font-family: fantasy;}
+.div3{ color:navy}
+.div3 a:visited{ color:aqua}
+ .div3 a:hover{ color: saddlebrown}
+.div3 a:active{ color:green}
